@@ -2361,11 +2361,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\EngineersDeskAPI\\EngineersDeskAPI\\EngineersDeskAPI.csproj",
+      "projectUniqueName": "E:\\ORG_EMPLOYEEAPI\\EngineersDeskAPI\\EngineersDeskAPI.csproj",
       "projectName": "EngineersDeskAPI",
-      "projectPath": "E:\\EngineersDeskAPI\\EngineersDeskAPI\\EngineersDeskAPI.csproj",
+      "projectPath": "E:\\ORG_EMPLOYEEAPI\\EngineersDeskAPI\\EngineersDeskAPI.csproj",
       "packagesPath": "C:\\Users\\agraw\\.nuget\\packages\\",
-      "outputPath": "E:\\EngineersDeskAPI\\EngineersDeskAPI\\obj\\",
+      "outputPath": "E:\\ORG_EMPLOYEEAPI\\EngineersDeskAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2386,8 +2386,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\EngineersDeskAPI\\DatabaseProject\\DatabaseProject.csproj": {
-              "projectPath": "E:\\EngineersDeskAPI\\DatabaseProject\\DatabaseProject.csproj"
+            "E:\\ORG_EMPLOYEEAPI\\DatabaseProject\\DatabaseProject.csproj": {
+              "projectPath": "E:\\ORG_EMPLOYEEAPI\\DatabaseProject\\DatabaseProject.csproj"
             }
           }
         }

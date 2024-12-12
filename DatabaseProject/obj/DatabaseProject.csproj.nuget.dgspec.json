@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\EngineersDeskAPI\\DatabaseProject\\DatabaseProject.csproj": {}
+    "E:\\ORG_EMPLOYEEAPI\\DatabaseProject\\DatabaseProject.csproj": {}
   },
   "projects": {
-    "E:\\EngineersDeskAPI\\DatabaseProject\\DatabaseProject.csproj": {
+    "E:\\ORG_EMPLOYEEAPI\\DatabaseProject\\DatabaseProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\EngineersDeskAPI\\DatabaseProject\\DatabaseProject.csproj",
+        "projectUniqueName": "E:\\ORG_EMPLOYEEAPI\\DatabaseProject\\DatabaseProject.csproj",
         "projectName": "DatabaseProject",
-        "projectPath": "E:\\EngineersDeskAPI\\DatabaseProject\\DatabaseProject.csproj",
+        "projectPath": "E:\\ORG_EMPLOYEEAPI\\DatabaseProject\\DatabaseProject.csproj",
         "packagesPath": "C:\\Users\\agraw\\.nuget\\packages\\",
-        "outputPath": "E:\\EngineersDeskAPI\\DatabaseProject\\obj\\",
+        "outputPath": "E:\\ORG_EMPLOYEEAPI\\DatabaseProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
